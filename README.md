@@ -4,10 +4,19 @@
 
 ## Install
 
-- ```zsh clone ```
-- ```zsh yarn ```
-- ```zsh yarn add @chakra-ui/react @emotion/react @emotion/styled framer-motion```
-- ```zsh npm install @openzeppelin/contracts```
+- ```zsh 
+clone 
+```
+
+- ```zsh 
+yarn 
+```
+- ```zsh
+yarn add @chakra-ui/react @emotion/react @emotion/styled framer-motion
+```
+- ```zsh
+npm install @openzeppelin/contracts
+```
 
 ## Addresse du contrat
 
