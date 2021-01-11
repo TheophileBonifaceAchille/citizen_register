@@ -23,4 +23,6 @@ yarn add @chakra-ui/react @emotion/react @emotion/styled framer-motion
 ## Metamask
 
 Vous avez besoin d'un compte / adresse MetaMask
-```https://metamask.io/```
+```zsh
+https://metamask.io/
+```
