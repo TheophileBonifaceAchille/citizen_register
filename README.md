@@ -2,20 +2,18 @@
 
 ## dApp pour s'enregistrer dans la blockchain
 
-## Install
+### **Installation**
 
-- ```zsh 
-clone 
+- ## yarn install
+
+```zsh
+yarn install
 ```
 
-- ```zsh 
-yarn 
-```
-- ```zsh
+- ## Chakra ui install
+
+```zsh
 yarn add @chakra-ui/react @emotion/react @emotion/styled framer-motion
-```
-- ```zsh
-npm install @openzeppelin/contracts
 ```
 
 ## Addresse du contrat
